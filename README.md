@@ -22,7 +22,7 @@
         <p>Be sure, you have installed all dependencies to run the project.</p>
 1️. Clone this repository
 
-        `git clone https://github.com/vlebelleguy/deliveroo-front.git`
+`git clone https://github.com/vlebelleguy/deliveroo-front.git`
       
 `cd deliveroo-front`
       
