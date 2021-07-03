@@ -2,7 +2,7 @@
 <samp>
 <img src="https://i.ibb.co/jR0FbhH/deliveroo-logo.png">
 <h1>Deliveroo Clone - Front-End</h1>
-<img src="https://i.ibb.co/bsGfxFS/deliveroon-screenshot.png">
+<img src="https://i.ibb.co/vmzq550/deliveroo-mockup.png">
 <h3>🍔 <ins>About This Project</ins> 🍔</h3>
 <p>Clone of the online food delivery website made at <a href="https://www.lereacteur.io/">Le Reacteur</a>'s bootcamp.</p>
 <h3>📚 <ins>Stacks</ins> 📚</h3>
